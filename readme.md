@@ -8,3 +8,5 @@ Comunicarse por plataforma Egg o chiflarme si me ven en la calle.
 - No contiene unformacion útil, es un ejercicio de ramas.
 ## Skills
 - Leer, escribir, hablar.
+## Lenguajes
+I can speak english and maybe some french (je ne parle pas francais)!
